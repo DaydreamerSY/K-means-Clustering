@@ -1,0 +1,9 @@
+https://vnexpress.net/khoa-hoc/che-tao-pin-uon-deo-chi-mong-0-05-mm-3987965.html
+Các nhà khoa học tại Viện Kỹ thuật Liên bang Thụy Sỹ (ETH Zurich) mới đây đã tạo ra một loại pin có khả năng uốn dẻo, kích thước dày 0.05 mm. Pin có thể bẻ cong, vặn xoắn mà vẫn không ảnh hưởng tới quá trình cung cấp năng lượng cho thiết bị. Một trong những yếu tố quyết định hiệu năng của loại pin này chính là chất điện phân đặc biệt mà nhóm nghiên cứu sử dụng. 
+
+Chất điện phân mới được phát hiện bởi nghiên cứu sinh Xi Chen.Tấm pin được sử dụng polymer uốn cong tổng hợp để làm anode (cực dương) và cathode (cực âm) cho pin. Bề mặt bên trong phủ một lớp mỏng các mảnh bạc vi mô. Các mảnh bạc này được xếp chồng lên nhau như các lớp ngói và không bị tách rời khi pin bị bẻ cong. "Thậm chí nếu các mảnh bạc rời ra, điện năng vẫn có thể đi qua hỗn hợp carbon", Xi Chen cho biết.  
+
+Loại gel được sử dụng để sản xuất tấm pin gồm nước và nồng độ lithium cao, được cho là thân thiện với môi trường hơn các chất điện phân thương mại trong các loại pin thương mại. Các loại pin trên thị trường hiện nay có kích thước dày, dễ gây cháy nổ và có hại cho môi trường. 
+
+Nhóm nghiên cứu cho biết loại pin uốn dẻo này sẽ là một linh kiện lý tưởng cho các thiết bị điện tử có khả năng cuộn lại trong tương lai, có tính ứng dụng cao trong việc sản xuất pin điện thoại, đồng hồ thông minh hoặc có thể gắn trực tiếp vào vải để tạo ra các loại quần áo thông minh phục vụ thám hiểm, nghiên cứu.
+

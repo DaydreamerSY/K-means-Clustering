@@ -1,0 +1,23 @@
+https://vnexpress.net/khoa-hoc/giang-vien-dai-hoc-bo-viec-de-mo-xuong-robot-3994763.html
+Khi còn là sinh viên đại học Kinh tế - Kỹ thuật Công nghiệp, Khanh thường cùng bạn bè mày mò, tìm hiểu thêm cách tạo ra những con robot giống trong các bộ phim về người máy biến hình transformer. Cuộc thi Robocon toàn quốc năm 2013, anh cùng nhóm bạn cũng đăng ký tham gia. Tuy không đạt giải cao trong cuộc thi nhưng đó là một trải nghiệm quý, giúp anh học hỏi thêm nhiều điều mới trong lĩnh vực chế tạo robot. Tốt nghiệp đại học cùng năm đó, Khanh được giữ lại trường làm giảng viên, mức thu nhập 10 triệu đồng/tháng. Hàng ngày đi dạy, đêm về anh tìm hiểu thêm cách chế tạo robot.
+
+Dường như chưa đủ thời gian cho đam mê, thực hiện hóa được những ý tưởng từng ấp ủ, năm 2016, Khanh quyết định từ bỏ sự nghiệp đứng lớp, đi theo tiếng gọi của đam mê. Nhóm Robot Bank được hình thành từ đó, thành viên là các sinh viên cùng sở thích.
+
+Thời điểm quyết định bỏ nghề giáo viên, bố mẹ anh đều phản đối và giận ra mặt. Khanh vượt qua tất cả vì "để được đi theo niềm đam mê của bản thân, việc phải hy sinh một điều lớn lao là đương nhiên", anh Khanh nói và cho rằng để sáng tạo cần phải dũng cảm để buông bỏ những cái cũ.
+
+<span>Năm 2017, anh cùng hai người bạn thuê một khu chế tạo phục vụ cho công việc nghiên cứu robot của nhóm bằng vốn tự có. Diện tích khu chế tạo chỉ khoảng 50 m 2 nhưng là nơi có thể hiện thực hóa những ý tưởng của nhóm. </span>
+
+Khi xem và tham gia những chương trình robocon quốc tế, anh tự hỏi tại sao không chế tạo những robot có bản sắc riêng, có ý nghĩa riêng của Việt Nam mà lại theo hình dáng của nước khác. Rồi nhu cầu xử lý rác thải nhựa tại Việt Nam ngày một tăng cao khiến anh nảy ra ý tưởng chế tạo robot từ phế liệu xe máy và ô tô. Với mục đích tăng cường nhận thức của mọi người về ô nhiễm nhựa, ý tưởng từ đó được anh và cả nhóm bắt đầu triển khai. 
+
+Đầu năm 2019, Robot One hoàn thiện sau 6 tháng cả nhóm miệt mài chế tạo. Bên ngoài là vỏ nhựa từ xe máy và ô tô, bên trong là khung sắt được lắp thêm động cơ và mạch điện để giúp robot có thể hoạt động. Các bộ phận của xe máy như yếm, còi, đèn, giảm xóc, bánh xe cũng đều được nhóm tận dụng từ các hãng khác nhau. 
+
+Những ngày bắt đầu vào dự án chế tạo, có người ủng hộ nhưng cũng không ít người lo lắng về tính khả thi của ý tưởng bởi việc chế tạo robot ở Việt Nam còn mới. Nhóm phải tự bỏ tiền túi để nghiên cứu chế tạo vì chưa kêu gọi được nguồn vốn hỗ trợ. "Chúng tôi vừa thực hiện lên hình dáng cho Robot One vừa đi thu gom vỏ và động cơ xe máy cũ. Quá trình huy động cũng khá lâu vì không phải ở đâu cũng dễ dàng kiếm được, có khi phải bỏ tiền để mua lại", anh Khanh nói.
+
+Sau khi thu gom được vật liệu làm khung, cả nhóm bắt tay thực hiện dần từng công đoạn. Việc lắp ráp thực tế khá khó khăn bởi các mảnh vật liệu là phế liệu từ xe máy nên không phải mảnh nào cũng vừa với vị trí định ghép nối, nhóm phải dày công cắt gọt cho vừa. Phần yếm xe được chế tạo thành phần "bó cơ" cho robot, chân để robot di chuyển bằng bánh xe máy, đèn xe máy được là phần ngực cho robot, sau đó sơn lại màu cho robot để tạo sự thu hút. 
+
+Phần lập trình của robot được nhóm cài đặt sẵn và tích hợp với bộ điều khiển. Điểm đặc biệt là robot có thể cử động, xoay phần hông, phát ra âm thanh được lập trình sẵn.Tay phải của Robot One được trang bị một mô hình nòng súng có thể điều khiển xoay tròn như một "transformer" đại chiến thực thụ. 
+
+Niềm đam mê chế tạo robot của anh Khanh đã truyền cảm hứng cho nhiều sinh viên kỹ thuật khác và mong muốn được tham gia chế tạo cùng nhóm. Là thành viên nhỏ tuổi nhất trong nhóm Robot Bank, sinh viên Đỗ Danh Phong chia sẻ: "Sau khi thầy đưa ra ý tưởng, tôi thích thú nên xin tham gia vào nhóm. Công việc này giúp tôi tìm ra niềm đam mê của mình và mang lại những thông điệp tích cực cho xã hội". 
+
+Sau khi hoàn thiện Robot One, nhóm đang trong quá trình chế tạo và sắp hoàn thành thêm một robot trong năm 2020 với nhiều cải tiến về hình dáng. Trong tương lai, nhóm dự định sẽ tạo ra một dòng robot mới từ máy in 3D có khả năng thương mại hóa và một dòng robot nhỏ phục vụ tại những địa điểm công cộng như công viên, trung tâm thương mại.
+
